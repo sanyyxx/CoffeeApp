@@ -1,16 +1,25 @@
-# my_coffee
+# CoffeeApp
 
-A new Flutter project.
+Простое мобильное приложение на Flutter для работы с кофе-профайлами, регистрацией и облачной базой данных.
 
-## Getting Started
+## О проекте
 
-This project is a starting point for a Flutter application.
+CoffeeApp — дипломный проект, разработанный на Flutter, демонстрирующий:
+- регистрацию пользователей через API;
+- работу с базой данных Firebase;
+- навигацию между экранами;
+- базовую бизнес-логику для управления данными.
+- симуляцию заказа, начисление и обмен бонусов.
 
-A few resources to get you started if this is your first Flutter project:
+## Технологии
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Проект использует:
+- Flutter / Dart  
+- REST API для регистрации  
+- Firebase для хранения данных
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Установка
+
+1. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/sanny666/coffeeapp
